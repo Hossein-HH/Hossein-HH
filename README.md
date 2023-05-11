@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<h3 align="center">A Student from IRAN</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseynhuseyni&label=Profile%20views&color=0e75b6&style=flat" alt="huseynhuseyni" /> </p>
 
 <h3 align="left">Jahrom university courses:</h3>
@@ -9,7 +7,6 @@
 <br>
 - 📖 AVR labratory: <a href="https://github.com/HuseynHuseyni/AVR_laboratory">Repo</a>
 <br>
-
 - 📫 How to reach me: <a href="huseyn.hosseini@gmail.com">huseyn.hosseini@gmail.com</a>
 
 <p align="left">
