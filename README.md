@@ -5,10 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseynhuseyni&label=Profile%20views&color=0e75b6&style=flat" alt="huseynhuseyni" /> </p>
 
 <h3 align="left">Jahrom university courses:</h3>
-<a href="URL">link text</a>
-<!-- - 📖 Network labratory: **[Repo](https://github.com/HuseynHuseyni/network_lab/tree/master/class)** -->
-<!-- - 📖 AVR labratory: **[Repo](https://github.com/HuseynHuseyni/AVR_laboratory)** -->
-[Link to Google](https://www.google.com)
+- 📖 Network labratory: **<a href="https://github.com/HuseynHuseyni/network_lab/tree/master/class">Repo</a>**
+<br>
+- 📖 AVR labratory: **<a href="https://github.com/HuseynHuseyni/AVR_laboratory">Repo</a>**
 <br>
 - 📫 How to reach me: huseyn.hosseini@gmail.com
 
