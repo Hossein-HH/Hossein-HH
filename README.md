@@ -5,9 +5,9 @@
 
 ## JUP/JUC Repositories
 
-- JUP (Jahrom University Project) prefix indicates an undergraduate project created for a specific course at Jahrom University.
+- JUP (Jahrom University Project) prefix indicates an undergraduate project created for a specific course project at Jahrom University.
 
-- JUC (Jahrom University Course) prefix indicates a repository for undergraduate course projects, documentation, and related files created for a specific course at Jahrom University.
+- JUC (Jahrom University Course) prefix indicates a repository for undergraduate course homeworks, projects, documentation, and related files created for a specific course at Jahrom University.
 
 ### JUP Repositories
 ### JUC Repositories
