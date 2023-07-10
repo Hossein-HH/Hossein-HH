@@ -12,6 +12,7 @@
 ### JUP Repositories
 ### JUC Repositories
 - [JUC-Network-Laboratory](https://github.com/HuseynHuseyni/JUC-Network-Laboratory)
+- [JUC-AVR-Laboratory](https://github.com/HuseynHuseyni/JUC-AVR-Laboratory)
 
 
 
