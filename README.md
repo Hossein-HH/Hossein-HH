@@ -13,6 +13,7 @@
 ### JUC Repositories
 - [JUC-Network-Laboratory](https://github.com/HuseynHuseyni/JUC-Network-Laboratory)
 - [JUC-AVR-Laboratory](https://github.com/HuseynHuseyni/JUC-AVR-Laboratory)
+- [JUC-Machine-Vision](https://github.com/HuseynHuseyni/JUC-Machine-Vision)
 
 
 
