@@ -3,20 +3,20 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## JUP/JUC Repositories
+## B.S.P/B.S.C Repositories
 
-- JUP (Jahrom University Project) prefix indicates an undergraduate project created for a specific course project at Jahrom University.
+- BSP (Bachelor Science Project) prefix indicates an undergraduate project created for a specific course project of Bachelor's Degree Science at Jahrom University.
 
-- JUC (Jahrom University Course) prefix indicates a repository for undergraduate course homeworks, projects, documentation, and related files created for a specific course at Jahrom University.
+- BSC (Bachelor Science Course) prefix indicates a repository for undergraduate course homeworks, projects, documentation, and related files created for a specific course of Bachelor's Degree Science at Jahrom University.
 
-### JUP Repositories
-- [JUP-Snake-And-Ladder-Game](https://github.com/HuseynHuseyni/JUP-Snake-And-Ladder-Game)
-- [JUP-MLFQ](https://github.com/HuseynHuseyni/JUP-MLFQ)
-### JUC Repositories
-- [JUC-Network-Laboratory](https://github.com/HuseynHuseyni/JUC-Network-Laboratory)
-- [JUC-AVR-Laboratory](https://github.com/HuseynHuseyni/JUC-AVR-Laboratory)
-- [JUC-Machine-Vision](https://github.com/HuseynHuseyni/JUC-Machine-Vision)
-- [JUC-Machine-Learning](https://github.com/HuseynHuseyni/JUC-Machine-Learning)
+### BSP Repositories
+- [BSP-Snake-And-Ladder-Game](https://github.com/HuseynHuseyni/BSP-Snake-And-Ladder-Game)
+- [BSP-MLFQ](https://github.com/HuseynHuseyni/BSP-MLFQ)
+### BSC Repositories
+- [BSC-Network-Laboratory](https://github.com/HuseynHuseyni/BSC-Network-Laboratory)
+- [BSC-AVR-Laboratory](https://github.com/HuseynHuseyni/BSC-AVR-Laboratory)
+- [BSC-Machine-Vision](https://github.com/HuseynHuseyni/BSC-Machine-Vision)
+- [BSC-Machine-Learning](https://github.com/HuseynHuseyni/BSC-Machine-Learning)
 
 
 
