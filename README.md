@@ -35,21 +35,6 @@
 ##### Contact me
 - 📫 **How to reach me:** [huseyn.hosseini@gmail.com](mailto:huseyn.hosseini@gmail.com)
 
-
-
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseynhuseyni&label=Profile%20views&color=0e75b6&style=flat" alt="huseynhuseyni" /> </p>
-
-<h3 align="left">Jahrom university courses:</h3>
-- 📖 Network labratory: <a href="https://github.com/HuseynHuseyni/network_lab/tree/master/class">Repo</a>
-<br>
-- 📖 AVR labratory: <a href="https://github.com/HuseynHuseyni/AVR_laboratory">Repo</a>
-<br> -->
-
-##### Contact me
-- 📫 How to reach me: <a href="huseyn.hosseini@gmail.com">huseyn.hosseini@gmail.com</a>
-
-
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Huseynhuseyni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
