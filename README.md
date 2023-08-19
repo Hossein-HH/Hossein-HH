@@ -18,9 +18,9 @@
 
 ## B.S.P/B.S.C Repositories
 
-- **BSP (Bachelor Science Project)** prefix indicates an undergraduate project created for a specific course project of Bachelor's Degree Science at Jahrom University.
+- The **BSP (Bachelor Science Project)** prefix signifies an undergraduate project designed for a particular Bachelor's Degree Science course at Jahrom University.
 
-- **BSC (Bachelor Science Course)** prefix indicates a repository for undergraduate course homework, projects, documentation, and related files created for a specific course of Bachelor's Degree Science at Jahrom University.
+- The **BSC (Bachelor Science Course)** prefix designates a repository for undergraduate coursework, projects, documentation, and associated files specific to a Bachelor's Degree Science course at Jahrom University.
 
 ### BSP Repositories
 - [BSP-Snake-And-Ladder-Game](https://github.com/HuseynHuseyni/BSP-Snake-And-Ladder-Game)
