@@ -10,7 +10,7 @@
 - JUC (Jahrom University Course) prefix indicates a repository for undergraduate course homeworks, projects, documentation, and related files created for a specific course at Jahrom University.
 
 ### JUP Repositories
-- [JUP-Snake-And-Ladder](https://github.com/HuseynHuseyni/JUP-Snake-And-Ladder)
+- [JUP-Snake-And-Ladder-Game](https://github.com/HuseynHuseyni/JUP-Snake-And-Ladder-Game)
 - [JUP-MLFQ](https://github.com/HuseynHuseyni/JUP-MLFQ)
 ### JUC Repositories
 - [JUC-Network-Laboratory](https://github.com/HuseynHuseyni/JUC-Network-Laboratory)
