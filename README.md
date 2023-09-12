@@ -29,6 +29,7 @@
 ### BSC Repositories
 - [BSC-Network-Laboratory](https://github.com/HuseynHuseyni/BSC-Network-Laboratory)
 - [BSC-AVR-Laboratory](https://github.com/HuseynHuseyni/BSC-AVR-Laboratory)
+- [BSC-Digital-Design](https://github.com/HuseynHuseyni/BSC-Digital-Design)
 - [BSC-Machine-Vision](https://github.com/HuseynHuseyni/BSC-Machine-Vision)
 - [BSC-Machine-Learning](https://github.com/HuseynHuseyni/BSC-Machine-Learning)
 
