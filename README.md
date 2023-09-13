@@ -24,6 +24,7 @@
 
 ### BSP Repositories
 - [BSP-Snake-And-Ladder-Game](https://github.com/HuseynHuseyni/BSP-Snake-And-Ladder-Game)
+- [BSP-Maze-Solver-Robot-Simulator](https://github.com/HuseynHuseyni/BSP-Maze-Solver-Robot-Simulator)
 - [BSP-MLFQ](https://github.com/HuseynHuseyni/BSP-MLFQ)
 
 ### BSC Repositories
