@@ -23,6 +23,7 @@
 - The **BSC (Bachelor Science Course)** prefix designates a repository for undergraduate coursework, projects, documentation, and associated files specific to a Bachelor's Degree Science course at Jahrom University.
 
 ### BSP Repositories
+- [BSP-Simplus-Assembler](https://github.com/HuseynHuseyni/BSP-Simplus-Assembler)
 - [BSP-Snake-And-Ladder-Game](https://github.com/HuseynHuseyni/BSP-Snake-And-Ladder-Game)
 - [BSP-Maze-Solver-Robot-Simulator](https://github.com/HuseynHuseyni/BSP-Maze-Solver-Robot-Simulator)
 - [BSP-Machine-Learning](https://github.com/HuseynHuseyni/BSP-Machine-Learning)
