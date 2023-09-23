@@ -18,9 +18,9 @@
 
 ## B.S.P/B.S.C Repositories
 
-- The **BSP (Bachelor Science Project)** prefix signifies an undergraduate project designed for a particular Bachelor's Degree Science course at Jahrom University.
+- The **BSP (Bachelor of Science Project)** prefix signifies an undergraduate project designed for a particular Bachelor's Degree Science course at Jahrom University.
 
-- The **BSC (Bachelor Science Course)** prefix designates a repository for undergraduate coursework, projects, documentation, and associated files specific to a Bachelor's Degree Science course at Jahrom University.
+- The **BSC (Bachelor of Science Course)** prefix designates a repository for undergraduate coursework, projects, documentation, and associated files specific to a Bachelor's Degree Science course at Jahrom University.
 
 ### BSP Repositories
 - [BSP-Simplus-Assembler](https://github.com/HuseynHuseyni/BSP-Simplus-Assembler)
@@ -37,6 +37,18 @@
 - [BSC-Machine-Vision](https://github.com/HuseynHuseyni/BSC-Machine-Vision)
 <!-- - [BSC-Machine-Learning](https://github.com/HuseynHuseyni/BSC-Machine-Learning) -->
 
+## M.S.P/M.S.C Repositories
+
+- The **MSP (Master of Science Project)** prefix signifies an undergraduate project designed for a particular Master's Degree Science course at Isfahan University.
+
+- The **MSC (Master of Science Course)** prefix designates a repository for undergraduate coursework, projects, documentation, and associated files specific to a Master's Degree Science course at Isahan University.
+
+### MSP Repositories
+- [Coming soon]()
+
+### MSC Repositories
+- [Coming soon]()
+  
 ##### Contact me
 - 📫 **How to reach me:** [huseyn.hosseini@gmail.com](mailto:huseyn.hosseini@gmail.com)
 
