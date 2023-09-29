@@ -29,6 +29,7 @@
 - [BSP-Machine-Learning](https://github.com/HuseynHuseyni/BSP-Machine-Learning)
 - [BSP-MLFQ](https://github.com/HuseynHuseyni/BSP-MLFQ)
 - [BSP-Sudoku-Solver-With-A-Star](https://github.com/HuseynHuseyni/BSP-Sudoku-Solver-With-A-Star)
+- [BSP-Country-Names-Game](https://github.com/HuseynHuseyni/BSP-Country-Names-Game)
 
 ### BSC Repositories
 - [BSC-Network-Laboratory](https://github.com/HuseynHuseyni/BSC-Network-Laboratory)
