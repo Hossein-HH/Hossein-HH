@@ -23,19 +23,19 @@
 - The **BSC (Bachelor of Science Course)** prefix designates a repository for undergraduate coursework, projects, documentation, and associated files specific to a Bachelor's Degree Science course at Jahrom University.
 
 ### BSP Repositories
-- [BSP-Simplus-Assembler](https://github.com/HuseynHuseyni/BSP-Simplus-Assembler)
-- [BSP-Snake-And-Ladder-Game](https://github.com/HuseynHuseyni/BSP-Snake-And-Ladder-Game)
-- [BSP-Maze-Solver-Robot-Simulator](https://github.com/HuseynHuseyni/BSP-Maze-Solver-Robot-Simulator)
-- [BSP-Machine-Learning](https://github.com/HuseynHuseyni/BSP-Machine-Learning)
-- [BSP-MLFQ](https://github.com/HuseynHuseyni/BSP-MLFQ)
-- [BSP-Sudoku-Solver-With-A-Star](https://github.com/HuseynHuseyni/BSP-Sudoku-Solver-With-A-Star)
-- [BSP-Country-Names-Game](https://github.com/HuseynHuseyni/BSP-Country-Names-Game)
+- [BSP-Simplus-Assembler](https://github.com/Hossein-HH/BSP-Simplus-Assembler)
+- [BSP-Snake-And-Ladder-Game](https://github.com/Hossein-HH/BSP-Snake-And-Ladder-Game)
+- [BSP-Maze-Solver-Robot-Simulator](https://github.com/Hossein-HH/BSP-Maze-Solver-Robot-Simulator)
+- [BSP-Machine-Learning](https://github.com/Hossein-HH/BSP-Machine-Learning)
+- [BSP-MLFQ](https://github.com/Hossein-HH/BSP-MLFQ)
+- [BSP-Sudoku-Solver-With-A-Star](https://github.com/Hossein-HH/BSP-Sudoku-Solver-With-A-Star)
+- [BSP-Country-Names-Game](https://github.com/Hossein-HH/BSP-Country-Names-Game)
 
 ### BSC Repositories
-- [BSC-Network-Laboratory](https://github.com/HuseynHuseyni/BSC-Network-Laboratory)
-- [BSC-AVR-Laboratory](https://github.com/HuseynHuseyni/BSC-AVR-Laboratory)
-- [BSC-Digital-Design](https://github.com/HuseynHuseyni/BSC-Digital-Design)
-- [BSC-Machine-Vision](https://github.com/HuseynHuseyni/BSC-Machine-Vision)
+- [BSC-Network-Laboratory](https://github.com/Hossein-HH/BSC-Network-Laboratory)
+- [BSC-AVR-Laboratory](https://github.com/Hossein-HH/BSC-AVR-Laboratory)
+- [BSC-Digital-Design](https://github.com/Hossein-HH/BSC-Digital-Design)
+- [BSC-Machine-Vision](https://github.com/Hossein-HH/BSC-Machine-Vision)
 <!-- - [BSC-Machine-Learning](https://github.com/HuseynHuseyni/BSC-Machine-Learning) -->
 <!--
 ## M.S.P/M.S.C Repositories
